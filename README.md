@@ -43,7 +43,7 @@ Check them out in my [repositories](https://github.com/arshu02?tab=repositories)
 
 ### 🤝 Let’s Connect & Collaborate!
 - 💬 Open to freelance, internships, or collaborative AI/full-stack projects
-- 📫 Reach me at **arshusingh.csbsgalaxy@gmail.com**
+- 📫 Reach me at **arshusingh26@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arshu02) | [Portfolio](https://arshu-portfolio.vercel.app)
 
 ---
